@@ -1,9 +1,10 @@
 body {
-  background-color: orange;
+  background-color: rgb(215, 63, 9);
 }
 
 h1 {
   text-align: center;
+  font-size: 60px;
 }
 
 p {
