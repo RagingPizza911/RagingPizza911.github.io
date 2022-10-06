@@ -14,3 +14,15 @@ p {
   color: white;
   font-weight: bold;
 }
+
+p1 {
+  color: white;
+  font-size: 30px;
+}
+
+footer {
+  text-align: center;
+  padding: 4px;
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
