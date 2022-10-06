@@ -22,7 +22,11 @@ p1 {
 
 footer {
   text-align: center;
-  padding: 0px;
+  position: fixed;
+  height: 70px;
+  width: 100%;
+  bottom: 0;
+  padding: 10px 10px 0px 10px;
   background-color: rgb(37, 37, 37);
   color: white;
 }
