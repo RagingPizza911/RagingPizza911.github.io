@@ -17,18 +17,17 @@ p {
 
 p1 {
   color: white;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 footer {
   text-align: center;
   position: fixed;
-  width: 100%;
   bottom: 0;
   padding-top: 5px;
   padding-right: 0px;
   padding-bottom: 5px;
-  padding-left: -10px;
+  padding-left: 0px;
   background-color: rgb(37, 37, 37);
   color: white;
 }
