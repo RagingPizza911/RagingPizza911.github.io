@@ -20,15 +20,15 @@ p1 {
   font-size: 20px;
 }
 
-footer {
+.footer {
   text-align: center;
   position: fixed;
-  width: 110%;
+  width: 100%;
   bottom: 0;
   padding-top: 5px;
   padding-right: 0px;
-  padding-bottom: 5px;
-  padding-left: 0px;
+  bottom: 0;
+  left: 0;
   background-color: rgb(37, 37, 37);
   color: white;
 }
