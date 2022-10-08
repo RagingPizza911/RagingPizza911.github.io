@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: exo2;
-  src: url('https://osuminecraft.us/fonts/Exo2-VariableFont_wght.ttf');
+  src: url('https://osuminecraft.us/fonts/Exo2-VariableFont_wght.ttf') format('truetype');
 }
 
 body {
